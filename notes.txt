@@ -1,0 +1,9 @@
+datadice = prep_data_tokens
+data_must_have = mustHaveSkills-2.csv --> gr_df_jobtitle -->must_have_data
+data_naukri=naukri_skill_full.csv -->
+
+lower case
+join 
+remove_duplicates
+
+53503 skils in 50k 

@@ -2,8 +2,11 @@ datadice = prep_data_tokens
 data_must_have = mustHaveSkills-2.csv --> gr_df_jobtitle -->must_have_data
 data_naukri=naukri_skill_full.csv -->
 
+prprocessing steps :
 lower case
-join 
+join skill names with underscore
 remove_duplicates
+group it based on job title (if possible)
+convert to list
 
 53503 skils in 50k 
